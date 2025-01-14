@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1ZUQ0QS7a/o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\W11\\OneDrive\\Área de Trabalho\\Console Application\\SistemaGerenciamentoEstoque\\SistemaGerenciamentoEstoque.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\W11\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Users\W11\OneDrive\Área de Trabalho\Console Application\SistemaGerenciamentoEstoque\bin\Release\net9.0\publish\SistemaGerenciamentoEstoque.exe
+C:\Users\W11\OneDrive\Área de Trabalho\Console Application\SistemaGerenciamentoEstoque\bin\Release\net9.0\publish\SistemaGerenciamentoEstoque.dll
+C:\Users\W11\OneDrive\Área de Trabalho\Console Application\SistemaGerenciamentoEstoque\bin\Release\net9.0\publish\SistemaGerenciamentoEstoque.deps.json
+C:\Users\W11\OneDrive\Área de Trabalho\Console Application\SistemaGerenciamentoEstoque\bin\Release\net9.0\publish\SistemaGerenciamentoEstoque.runtimeconfig.json
+C:\Users\W11\OneDrive\Área de Trabalho\Console Application\SistemaGerenciamentoEstoque\bin\Release\net9.0\publish\SistemaGerenciamentoEstoque.pdb
+C:\Users\W11\OneDrive\Área de Trabalho\Console Application\SistemaGerenciamentoEstoque\bin\Release\net9.0\publish\Newtonsoft.Json.dll
